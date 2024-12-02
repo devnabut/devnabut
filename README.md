@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabut</h1>
 <h3 align="center">Developer Nabut</h3>
 
-- 👨‍💻 Profile Nabut [devnabut.site](devnabut.site)
+- 👨‍💻 Profile Nabut http://devnabut.site/
 
 - 📫 Làm thế nào để liên lạc với tôi **[t.me/truongtuban](https://t.me/truongtuban)**
 
