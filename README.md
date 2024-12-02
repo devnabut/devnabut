@@ -3,7 +3,7 @@
 
 - 👨‍💻 Profile Nabut [devnabut.site](devnabut.site)
 
-- 📫 Làm thế nào để liên lạc với tôi **truongtubanr@gmail.com**
+- 📫 Làm thế nào để liên lạc với tôi **t.me/truongtuban**
 
 - <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
